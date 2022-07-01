@@ -1,1 +1,1 @@
-# snaptext-windows
+CutScreen for Windows
